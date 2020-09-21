@@ -1,5 +1,6 @@
 .container {
     margin-bottom: 100px;
+
 }
 
 .orange-bg {
@@ -13,4 +14,27 @@
 
 .price {
     color: #FF136F;
+}
+
+.cat-1 {
+    background-color: orange;
+    border-radius: 10px;
+
+}
+
+.cat-2 {
+    background-color: tomato;
+    border-radius: 10px;
+
+}
+
+.cat-3 {
+    background-color: blue;
+    border-radius: 10px;
+}
+
+.text-color-cat {
+    color: white;
+    font-weight: 500;
+    font-size: x-large;
 }
