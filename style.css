@@ -109,3 +109,11 @@
 
 
 }
+.email-input {
+    border-radius: 10px;
+    padding: 27px 27px;
+}
+.email-button {
+    padding: 15px 20px;
+    border-radius: 10px;
+}
