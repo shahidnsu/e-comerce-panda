@@ -16,6 +16,12 @@
     color: #FF136F;
 }
 
+.cat-header {
+    color: slategray;
+    font-size: large;
+    margin-bottom: 25px;
+}
+
 .cat-1 {
     background-color: orange;
     border-radius: 10px;
@@ -37,4 +43,69 @@
     color: white;
     font-weight: 500;
     font-size: x-large;
+}
+.products
+{
+    background-color:whitesmoke;
+}
+
+.product-shoe-section {
+    padding-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.product-shoe-section h1 {
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+
+}
+
+.product-shoe-section p {
+    color: burlywood;
+    font-weight: bold;
+}
+
+.product-shoe-section-card {
+
+
+    border-radius: 10px;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    ;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-body h5 {
+    color: black;
+    font-size: larger;
+    font-weight: 500;
+
+}
+
+.card-text {
+    color: slategray;
+}
+
+.card-body p {
+    font-weight: bolder;
+}
+.footer {
+    background-color: tomato;
+    border-radius: 10px;
+    padding: 40px 40px;
+}
+.footer h1, p {
+    color:whitesmoke;
+    padding-bottom: 10px;
+    
+
+
 }
