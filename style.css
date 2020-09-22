@@ -96,18 +96,27 @@
 
 .card-body p {
     font-weight: bolder;
+    color:black;
 }
 .footer {
     background-color: tomato;
     border-radius: 10px;
-    padding: 40px 40px;
+    padding: 55px 55px;
 }
 .footer h1, p {
     color:whitesmoke;
     padding-bottom: 10px;
     
+    
 
 
+}
+.footer h1 {
+    font-size: 25px;
+
+}
+.footer p {
+    font-size: 15px;
 }
 .email-input {
     border-radius: 10px;
